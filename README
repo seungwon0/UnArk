@@ -1,0 +1,30 @@
+UnArk
+=====
+
+UnArk is a simple archive extractor program for Linux.
+
+It supports various archive format including zip, alz, egg and 7z.
+
+It uses Ark library(http://www.bandisoft.com/ark/).
+
+The original program is at the following link:
+http://www.indidev.net/forum/viewtopic.php?f=3&t=73
+
+
+Install
+-------
+
+% make
+% sudo make install
+
+
+Uninstall
+---------
+
+% sudo make uninstall
+
+
+URL
+---
+
+https://github.com/seungwon0/UnArk

@@ -1,0 +1,274 @@
+
+
+                                ArkLibrary License
+
+
+                                            Copyright(C) 2008-2011 Bandisoft.com
+                                   All rights reserved except as specified below
+
+================================================================================
+
+
+* zlib : http://www.zlib.net/zlib_license.html
+
+	Copyright (C) 1995-2010 Jean-loup Gailly and Mark Adler
+
+	This software is provided 'as-is', without any express or implied
+	warranty.  In no event will the authors be held liable for any damages
+	arising from the use of this software.
+
+	Permission is granted to anyone to use this software for any purpose,
+	including commercial applications, and to alter it and redistribute it
+	freely, subject to the following restrictions:
+
+	1. The origin of this software must not be misrepresented; you must not
+	   claim that you wrote the original software. If you use this software
+	   in a product, an acknowledgment in the product documentation would be
+	   appreciated but is not required.
+	2. Altered source versions must be plainly marked as such, and must not be
+	   misrepresented as being the original software.
+	3. This notice may not be removed or altered from any source distribution.
+
+	Jean-loup Gailly
+	Mark Adler
+  
+
+* bzip2 : http://www.bzip.org/downloads.html
+  
+
+	This program, "bzip2", the associated library "libbzip2", and all
+	documentation, are copyright (C) 1996-2010 Julian R Seward.  All
+	rights reserved.
+
+	Redistribution and use in source and binary forms, with or without
+	modification, are permitted provided that the following conditions
+	are met:
+
+	1. Redistributions of source code must retain the above copyright
+	   notice, this list of conditions and the following disclaimer.
+
+	2. The origin of this software must not be misrepresented; you must 
+	   not claim that you wrote the original software.  If you use this 
+	   software in a product, an acknowledgment in the product 
+	   documentation would be appreciated but is not required.
+
+	3. Altered source versions must be plainly marked as such, and must
+	   not be misrepresented as being the original software.
+
+	4. The name of the author may not be used to endorse or promote 
+	   products derived from this software without specific prior written 
+	   permission.
+
+	THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS
+	OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+	WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+	ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+	DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+	DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+	GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+	INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+	WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+	NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+	SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+	Julian Seward, jseward@bzip.org
+	bzip2/libbzip2 version 1.0.6 of 6 September 2010
+
+
+* ncompress :  http://ncompress.sourceforge.net/
+	
+	PUBLIC DOMAIN
+	
+
+* unarj : http://www.arjsoftware.com/
+
+	UNARJ LICENSE POLICY FOR ALL USERS:
+
+	The UNARJ program, source code, and the associated documentation
+	are copyright (c) 1990-2000 ARJ Software, Inc. all rights reserved.
+
+	If you distribute this software to others, you are required to
+	distribute the ENTIRE package consisting of the following files:
+
+	README.DOC
+	UNARJ.EXE
+	UNARJ.DOC
+	UNARJ.C
+	DECODE.C
+	ENVIRON.C
+	UNARJ.H
+	UNARJ.DEF
+	TCCUNARJ.MAK
+	BCCUNARJ.MAK
+	BCC32.MAK
+	QCLUNARJ.MAK
+	OS2UNARJ.MAK
+	TECHNOTE.DOC
+
+	We strongly prefer that the files be distributed in the format
+	originally released:  UNARJ243.EXE with the ARJ-SECURITY envelope as
+	created by the author.  If you must distribute the UNARJ archive in
+	another archive format, please archive the UNARJ243.EXE as one file
+	inside the other archive.  Re-archival of the software as separate
+	files means losing the ARJ security envelope.
+
+	You may freely use the UNARJ C source code.  If you wish to 
+	distribute a modified version of UNARJ.EXE, you MUST indicate that it 
+	is a modified version both in the program and source code.
+
+	We are holding the copyright on the source code, so please do not
+	delete our name from the program files or the documentation.
+
+	The UNARJ.EXE program is built from this source using Borland C++ 3.1.
+
+	You may freely use, copy, and distribute UNARJ.EXE, provided that no
+	fee is charged for such use, copying or distribution.
+
+	You may use UNARJ.EXE in a commercial software package provided that
+	no additional fee is charged for using UNARJ.EXE and provided that
+	the user fully understands that NO warranty or support is provided
+	for UNARJ.EXE by ARJ Software.  Moreover, the user must fully
+	understand that UNARJ does not have the long usage history that ARJ
+	does.
+
+	This source code is intended to promote the building of utilities to
+	support the use of ARJ and ARJ archives.
+
+
+* aes : http://gladman.plushost.co.uk/oldsite/AES/index.php
+
+	---------------------------------------------------------------------------
+	Copyright (c) 1998-2008, Brian Gladman, Worcester, UK. All rights reserved.
+
+	LICENSE TERMS
+
+	The redistribution and use of this software (with or without changes)
+	is allowed without the payment of fees or royalties provided that:
+
+	 1. source code distributions include the above copyright notice, this
+	    list of conditions and the following disclaimer;
+
+	 2. binary distributions include the above copyright notice, this list
+	    of conditions and the following disclaimer in their documentation;
+
+	 3. the name of the copyright holder is not used to endorse products
+	    built using this software without specific written permission.
+
+	DISCLAIMER
+
+	This software is provided 'as is' with no explicit or implied warranties
+	in respect of its properties, including, but not limited to, correctness
+	and/or fitness for purpose.
+	---------------------------------------------------------------------------
+
+
+* mspack : http://www.cabextract.org.uk/libmspack/
+
+	In addition to the provisions of the LGPL, you are permitted to use the 
+	library directly as part of your build process provided you meet all of 
+	the following conditions:
+
+	All modifications to the existing libmspack source code are published and 
+	distributed under the LGPL license.
+	You must not use libmspack function calls, structures or definitions unless 
+	they are defined in the public library interface "mspack.h".
+	When distributing your code, you must make clear your code uses libmspack, 
+	and either include the full libmspack distribution with your code, or provide 
+	access to it as per clause 4 of the LGPL.
+
+
+* unrar : http://www.rarlab.com/rar_add.htm
+
+	 ******    *****   ******   UnRAR - free utility for RAR archives
+	 **   **  **   **  **   **  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	 ******   *******  ******    License for use and distribution of
+	 **   **  **   **  **   **   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	 **   **  **   **  **   **         FREE portable version
+					   ~~~~~~~~~~~~~~~~~~~~~
+
+	      The source code of UnRAR utility is freeware. This means:
+
+	   1. All copyrights to RAR and the utility UnRAR are exclusively
+	      owned by the author - Alexander Roshal.
+
+	   2. The UnRAR sources may be used in any software to handle RAR
+	      archives without limitations free of charge, but cannot be used
+	      to re-create the RAR compression algorithm, which is proprietary.
+	      Distribution of modified UnRAR sources in separate form or as a
+	      part of other software is permitted, provided that it is clearly
+	      stated in the documentation and source comments that the code may
+	      not be used to develop a RAR (WinRAR) compatible archiver.
+
+	   3. The UnRAR utility may be freely distributed. It is allowed
+	      to distribute UnRAR inside of other software packages.
+
+	   4. THE RAR ARCHIVER AND THE UnRAR UTILITY ARE DISTRIBUTED "AS IS".
+	      NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED.  YOU USE AT 
+	      YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, 
+	      DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING
+	      OR MISUSING THIS SOFTWARE.
+
+	   5. Installing and using the UnRAR utility signifies acceptance of
+	      these terms and conditions of the license.
+
+	   6. If you don't agree with terms of the license you must remove
+	      UnRAR files from your storage devices and cease to use the
+	      utility.
+
+	      Thank you for your interest in RAR and UnRAR.
+
+
+						    Alexander L. Roshal
+
+
+* lha : http://sourceforge.jp/projects/lha/
+
+	/* ------------------------------------------------------------------------ */
+	/* LHa for UNIX                                                             */
+	/*              lharc.c -- append to archive                                */
+	/*                                                                          */
+	/*      Copyright (C) MCMLXXXIX Yooichi.Tagawa                              */
+	/*      Modified                Nobutaka Watazaki                           */
+	/*                          Thanks to H.Yoshizaki. (MS-DOS LHarc)           */
+	/*                                                                          */
+	/*  DOS-Version Original LHx V C2.01        (C) H.Yohizaki                  */
+	/* ------------------------------------------------------------------------ */
+
+
+* lzma sdk : http://www.7-zip.org/sdk.html
+
+	PUBLIC DOMAIN
+
+
+* NFD/NFC utf8 converter : http://www.opensource.apple.com/source/xnu/xnu-1486.2.11/bsd/vfs/
+
+	/*
+	 * Copyright (c) 2000-2005 Apple Computer, Inc. All rights reserved.
+	 *
+	 * @APPLE_OSREFERENCE_LICENSE_HEADER_START@
+	 * 
+	 * This file contains Original Code and/or Modifications of Original Code
+	 * as defined in and that are subject to the Apple Public Source License
+	 * Version 2.0 (the 'License'). You may not use this file except in
+	 * compliance with the License. The rights granted to you under the License
+	 * may not be used to create, or enable the creation or redistribution of,
+	 * unlawful or unlicensed copies of an Apple operating system, or to
+	 * circumvent, violate, or enable the circumvention or violation of, any
+	 * terms of an Apple operating system software license agreement.
+	 * 
+	 * Please obtain a copy of the License at
+	 * http://www.opensource.apple.com/apsl/ and read it before using this file.
+	 * 
+	 * The Original Code and all software distributed under the License are
+	 * distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER
+	 * EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES,
+	 * INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY,
+	 * FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.
+	 * Please see the License for the specific language governing rights and
+	 * limitations under the License.
+	 * 
+	 * @APPLE_OSREFERENCE_LICENSE_HEADER_END@
+	 */
+
+
+                                         <eol>

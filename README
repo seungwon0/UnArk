@@ -16,12 +16,17 @@ Install
 
 % make
 % sudo make install
+or
+% scons
+% sudo scons install
 
 
 Uninstall
 ---------
 
 % sudo make uninstall
+or
+% sudo scons -c
 
 
 URL

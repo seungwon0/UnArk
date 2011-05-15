@@ -26,7 +26,7 @@ Uninstall
 
 % sudo make uninstall
 or
-% sudo scons -c
+% sudo scons -c install
 
 
 URL
